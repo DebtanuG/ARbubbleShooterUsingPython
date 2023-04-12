@@ -1,0 +1,25 @@
+body{
+  background: #2C3333;
+  background-image: url('game-background.jpg');;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(0.9px);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 1px solid #dddddd; */
+    border-radius: 20px;
+    width: 50%;
+    height: 50%;
+  }
+.top{
+    color: rgb(178, 205, 228);
+    padding: 10px 20px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+    align-items: center top;
+    text-align: center ; 
+  }
